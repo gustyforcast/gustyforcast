@@ -1,7 +1,11 @@
 - 👋 Hi, I’m @gustyforcast
-- 👀 I’m interested in developing a better understanding of Python and its various applications
+- 👀 I’m interested in learning Python to a high level and to be able to leverage my understanding to benifit various projects and continue understanding CS prinicples.
 - 🌱 I’m currently learning using Jetbrains accademy Python course
-- 💞️ I’m looking to collaborate on ...
+- Next steps after that are:
+    - Automate the boring stuff with python
+    - Head first Python
+    - Advent of code preperation for this coming year
+    - Learning a little bit of Fortran
 - 📫 How to reach me ...
 
 <!---
