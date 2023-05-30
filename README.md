@@ -6,7 +6,6 @@
     - Head first Python
     - Advent of code preperation for this coming year
     - Learning a little bit of Fortran
-- 📫 How to reach me ...
 
 <!---
 gustyforcast/gustyforcast is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
