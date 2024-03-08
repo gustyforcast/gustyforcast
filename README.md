@@ -1,11 +1,9 @@
 - 👋 Hi, I’m @gustyforcast
-- 👀 I’m interested in learning Python to a high level and to be able to leverage my understanding to benifit various projects and continue understanding CS prinicples.
-- 🌱 I’m currently learning using Jetbrains accademy Python course
-- Next steps after that are:
-    - Automate the boring stuff with python
-    - Head first Python
-    - Advent of code preperation for this coming year
-    - Learning a little bit of Fortran
+- New pathway plan
+- I've now finished various Python related courses.
+- Work through a full stack engineer pathway like that on code academy
+- Progress through a few coding games like foobar or advent of code
+- work on an ios app through learning a bit of swift, react and react native
 
 <!---
 gustyforcast/gustyforcast is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
